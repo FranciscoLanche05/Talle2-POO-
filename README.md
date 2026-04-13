@@ -1,1 +1,4 @@
 # Talle2-POO-
+Integrantes:
+  -FIERRO ANGUI
+  -FRANCISCO LANCHE
